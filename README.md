@@ -1,2 +1,3 @@
 # JsCalculator
-Js calculator 
+Js calculator using forEach for the number buttons 
+
